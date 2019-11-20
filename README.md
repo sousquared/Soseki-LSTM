@@ -8,10 +8,12 @@
 4. 文章生成
 
 ## データ `./data`
-文字コードはUTF-8
+文字コードはUTF-8  
 - `./data/soseki_raw`  
     青空文庫からダウンロード  
-    おそらく全作品
+    https://www.aozora.gr.jp/index_pages/person148.html#sakuhin_list_1  
+    おそらく全作品（要確認）  
+    旧字によるタイトルの被りをなくしている。
 - `./data/soseki_processed`  
     加工済みデータ  
     - `soseki_all.txt`  
