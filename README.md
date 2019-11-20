@@ -7,12 +7,6 @@
 3. LSTM または Bidirectional LSTM による学習
 4. 文章生成
 
-## 結果例 `./result`
-LSTMとBidirectional LSTMの結果例を載せている。  
-ほとんど意味をなしていないがなんとなく昔の言葉遣いっぽい特徴は現れている。  
-文章生成に使ったスクリプトは載せていないが、以下を参考にした。
-https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py
-
 ## データ `./data`
 文字コードはUTF-8
 - `./data/soseki_raw`  
@@ -25,4 +19,8 @@ https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py
     - `soseki_all_hiragana.txt`
         全作品をひらがなに加工したもの
         
- 
+## 結果例 `./result`
+LSTMとBidirectional LSTMの結果例を載せている。  
+ほとんど意味をなしていないがなんとなく昔の言葉遣いっぽい特徴は現れている。  
+文章生成に使ったスクリプトは載せていないが、以下を参考にした。
+https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py
