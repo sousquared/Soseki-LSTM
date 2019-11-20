@@ -11,7 +11,7 @@
 文字コードはUTF-8  
 - `./data/soseki_raw`  
     青空文庫からダウンロード  
-    https://www.aozora.gr.jp/index_pages/person148.html#sakuhin_list_1  
+    https://www.aozora.gr.jp/index_pages/person148.html  
     おそらく全作品（要確認）  
     旧字によるタイトルの被りをなくしている。
 - `./data/soseki_processed`  
