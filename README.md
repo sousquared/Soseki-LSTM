@@ -23,6 +23,6 @@
         
 ## 結果例 `./result`
 LSTMとBidirectional LSTMの結果例を載せている。  
-ほとんど意味をなしていないがなんとなく昔の言葉遣いっぽい特徴は現れている。  
+ほとんど意味を成していないがなんとなく昔の言葉遣いっぽい特徴は現れている。  
 文章生成に使ったスクリプトは載せていないが、以下を参考にした。
 https://github.com/fchollet/keras/blob/master/examples/lstm_text_generation.py
